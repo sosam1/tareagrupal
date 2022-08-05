@@ -6,4 +6,19 @@ p{
 }
 body {
     background-color: burlywood;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.int{
+    width: 30%;
+    height: 50px;
+    margin: 10px 5px;
+    padding: 0px;
+    background-color: rgba(213, 213, 158, 0.592);
+    border-radius: 10px;
+    text-align: center;
+    box-sizing: border-box;
 }
