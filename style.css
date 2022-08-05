@@ -1,0 +1,45 @@
+<<<<<<< Updated upstream
+=======
+h1{
+    color: red;
+    width: 100%;
+    text-align: center;
+    font-size: 2.5em;
+}
+p{
+    color: blue;
+}
+body {
+    background-color: burlywood;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.int{
+    width: 30%;
+    height: 50px;
+    margin: 10px 5px;
+    padding: 0px;
+    background-color: rgba(213, 213, 158, 0.592);
+    border-radius: 10px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.jk{
+    width: 100vw;
+    height: 380px;
+    margin: 20px 10px;
+    padding: 0px;
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
+    background-color: rgba(65, 63, 63, 0.147);
+    background-image: url(https://celebrity.land/wp-content/uploads/2021/05/Los-Backyardigans-se-estan-volviendo-virales-en-TikTok-y-ya.jpg);
+    background-size: cover;
+    box-sizing: border-box;
+}
+>>>>>>> Stashed changes
