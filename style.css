@@ -22,3 +22,8 @@ body {
     text-align: center;
     box-sizing: border-box;
 }
+
+.int:hover {
+    font-size: larger;
+    text-decoration: underline;
+}
